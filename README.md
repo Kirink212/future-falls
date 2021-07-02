@@ -8,4 +8,4 @@
 ## Game Builds:
 
 A build of the game is available as FutureFallsBuilds.zip.
-After unzipping it, you will choose the folder related to your OS, and then click in the executable.
+After unzipping it, you will choose the folder related to your OS, and then run the executable by clicking it.
